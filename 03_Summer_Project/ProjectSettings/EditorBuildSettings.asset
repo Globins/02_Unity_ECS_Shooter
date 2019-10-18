@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Scenes/Grasslands.unity
+    guid: d969a015a0fe83a44bbb0212c566a7dc
+  - enabled: 1
+    path: Assets/00_Scenes/Grassland_Boss.unity
+    guid: 3e612ce86a54656468b7bb2360fecf2c
+  - enabled: 1
+    path: Assets/00_Scenes/Loading.unity
+    guid: c1cfd88c6b6584842b33d9b3c0d514ad
+  - enabled: 1
+    path: Assets/00_Scenes/MainMenu.unity
+    guid: 8e7573071fd88e749a86b74a9e42ebe8
+  m_configObjects: {}

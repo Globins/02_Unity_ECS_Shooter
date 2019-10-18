@@ -1,0 +1,40 @@
+Canyon Pack - By Pixel Make
+
+For use in your games please contact us at "pixelmake.contact@gmail.com".
+
+Spire_001 is a customisable Spire with 5 parts and a base tile with a Tileable Texture.
+The Prefabs (Not including the Mound Prefabs) were made using these pieces.
+
+To use the Demo Scenes you need to download and import these Asset Pack:
+Standard Assets Effects Pack
+Legacy Image Effects - https://www.assetstore.unity3d.com/#!/content/83913
+
+Model Verts/Tris
+
+Spire_001
+	Spire_001_Low
+		Spire_001_A_Base_Low -----------  2956 Verts/ 1001 Tris
+		Spire_001_B_Pillar_1_Low -------  1480 Verts/  522 Tris
+		Spire_001_C_Pillar_2_Low -------  1530 Verts/  518 Tris
+		Spire_001_D_Pillar_3_Low -------  1562 Verts/  528 Tris
+		Spire_001_E_Pillar_4_Low -------  1631 Verts/  547 Tris
+	Spire_001_Medium
+		Spire_001_A_Base_Medium -------- 15868 Verts/ 5643 Tris
+		Spire_001_B_Pillar_1_Medium ----  4151 Verts/ 1502 Tris 
+		Spire_001_C_Pillar_2_Medium ----  4951 Verts/ 1738 Tris 
+		Spire_001_D_Pillar_3_Medium ----  7357 Verts/ 2568 Tris
+		Spire_001_E_Pillar_4_Medium ----  8889 Verts/ 3091 Tris
+Spire_002
+	Spire_002_Low ----------------------  3689 Verts/ 1244 Tris
+	Spire_002_Medium ------------------- 14553 Verts/ 4998 Tris
+Spire_003
+	Spire_003_Medium ------------------- 14464 Verts/ 5019 Tris
+Mound_001
+	Mound_001_Medium ------------------- 14328 Verts/ 4875 Tris
+
+
+
+Texture List For Models
+Albedo
+Specular
+Normal
